@@ -10,19 +10,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 558,
-    "timeWeek": 498,
-    "timeMonth": 498,
-    "timeYear": 498,
+    "time": 518,
+    "timeDay": 569,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   },
   {
     "name": "API",
-    "url": "https://vatnotif-api.kristn.co.uk/",
-    "icon": "https://icons.duckduckgo.com/ip3/vatnotif-api.kristn.co.uk.ico",
+    "url": "https://api.vatnotif..kristn.co.uk/",
+    "icon": "https://icons.duckduckgo.com/ip3/api.vatnotif..kristn.co.uk.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 477,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   }
 ]
